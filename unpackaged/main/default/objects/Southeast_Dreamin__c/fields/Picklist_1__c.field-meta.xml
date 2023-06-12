@@ -20,11 +20,7 @@
                 <default>false</default>
                 <label>Meeny</label>
             </value>
-            <value>
-                <fullName>Miny</fullName>
-                <default>false</default>
-                <label>Miny</label>
-            </value>
+
         </valueSetDefinition>
     </valueSet>
 </CustomField>
