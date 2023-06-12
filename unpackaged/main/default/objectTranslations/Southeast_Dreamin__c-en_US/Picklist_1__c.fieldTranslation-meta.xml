@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Picklist 1 --></label>
+        <name>Picklist_1__c</name>
+        <picklistValues>
+            <masterLabel>Eeny</masterLabel>
+            <translation><!-- Eeny --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Meeny</masterLabel>
+            <translation><!-- Meeny --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Miny</masterLabel>
+            <translation><!-- Miny --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>
