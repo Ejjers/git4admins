@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email template for confirmation of an appointment when appointments are scheduled using appointment types with Amazon Chime.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Appointment for Unauthenticated User using Appointment Types - For Amazon Chime.</name>
+    <style>none</style>
+    <subject>{!Organization.Name}:Appointment Confirmation.</subject>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

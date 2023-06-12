@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Owned_WebCarts</fullName>
+    <columns>Name</columns>
+    <columns>CreatedDate</columns>
+    <columns>GrandTotalAmount</columns>
+    <columns>Status</columns>
+    <columns>Account</columns>
+    <filterScope>Mine</filterScope>
+    <filters>
+        <field>Status</field>
+        <operation>equals</operation>
+        <value>A</value>
+    </filters>
+    <filters>
+        <field>Type</field>
+        <operation>equals</operation>
+        <value>C</value>
+    </filters>
+    <label>My Active Carts</label>
+</ListView>

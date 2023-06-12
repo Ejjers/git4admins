@@ -1,0 +1,13 @@
+<html><head><title></title><style type="text/css">* {    font-family: Segoe UI;    font-size: 16px;    color:black;   }.button {        display: block;        margin-left: auto;        margin-right: auto;        width: 70%;        max-width: 350px;        height: 25px;        color: white;        background: #0176d3;        border: 1px solid #c9c9c9;        padding: 10px;        text-align: center;        border-radius: 5px;        font-weight: bold;        line-height: 25px;        font-weight:normal;      }      img {        display: block;        margin-left: auto;        margin-right: auto;      }      a {        text-decoration: none;        color: #5e5e5e;        font-weight:normal;      }      .icon{        display: inline;        height: 12.65px;        width: 11.82px;        left: 1.10px;        top: 0.67px;        border-radius: 0px;      }      h1 {        text-align: center;        font-size: 20px;        font-weight:normal;      }</style></head><body><img src="https://test.salesforce.com/img/icon/t4v35/utility/event_120.png"><h1>Appointment has been scheduled!</h1>
+            <div style="padding-left:2rem">
+            <p>Hello {!Lead.Name},<br>
+            Your appointment is scheduled.</p>
+            </div>
+            <div style="background-color: #ECF0F1;padding-left:2rem;padding-top:1rem;padding-bottom:1rem">
+            <b>Appointment Details</b>
+            <p >Scheduled On<br><b ><img class="icon" src="https://test.salesforce.com/img/icon/t4v35/utility/event_120.png"></span>{!DATETIMEVALUE(ServiceAppointment.SchedStartTime)} - {!DATETIMEVALUE(ServiceAppointment.SchedEndTime)}{!User.TimeZoneSidKey} </b ><br><br>
+            Appointment Topic<br ><b >{!ServiceAppointment.WorkType}</b ><br><br>
+            With<br ><b >{!ServiceAppointment.Comments}</b ><br><br>
+            Type<br ><b >Video call - {!ServiceAppointment.EngagementChannelType}</b ><br><br></p>
+            </div >
+         <div style="margin-top: 1rem;text-align: center"><a style="color:white;" class="button" href="[GUEST_URL]?videocallinfo={!ServiceAppointment.ApptBookingInfoUrl}">Join Video Call </a> </div ></body></html>
