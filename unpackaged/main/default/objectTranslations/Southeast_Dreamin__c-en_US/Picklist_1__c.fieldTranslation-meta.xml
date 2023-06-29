@@ -14,4 +14,8 @@
             <masterLabel>Miny</masterLabel>
             <translation><!-- Miny --></translation>
         </picklistValues>
+        <picklistValues>
+            <masterLabel>Mo</masterLabel>
+            <translation><!-- Mo --></translation>
+        </picklistValues>
     </CustomFieldTranslation>
