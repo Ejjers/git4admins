@@ -12,11 +12,16 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
+                <fullName>JESSTEST</fullName>
+                <default>false</default>
+                <label>JESSTEST</label>
+            </value>
+          <value>
                 <fullName>GC1040</fullName>
                 <default>false</default>
                 <label>GC1040</label>
-            </value>
-            <value>
+            </value> 
+         <value>
                 <fullName>GC1060</fullName>
                 <default>false</default>
                 <label>GC1060</label>
