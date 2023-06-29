@@ -25,6 +25,11 @@
                 <default>false</default>
                 <label>Green</label>
             </value>
+             <value>
+                <fullName>Purple</fullName>
+                <default>false</default>
+                <label>Purple</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
