@@ -20,6 +20,16 @@
                 <default>false</default>
                 <label>Green</label>
             </value>
+            <value>
+                <fullName>Teal</fullName>
+                <default>false</default>
+                <label>Teal</label>
+            </value>
+            <value>
+                <fullName>Magenta</fullName>
+                <default>false</default>
+                <label>Magenta</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
