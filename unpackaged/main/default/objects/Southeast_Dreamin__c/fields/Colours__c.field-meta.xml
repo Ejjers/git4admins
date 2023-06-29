@@ -21,6 +21,11 @@
                 <label>pink</label>
             </value>
             <value>
+                <fullName>Teal</fullName>
+                <default>false</default>
+                <label>Teal</label>
+            </value>
+            <value>
                 <fullName>Green</fullName>
                 <default>false</default>
                 <label>Green</label>
