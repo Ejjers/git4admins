@@ -16,7 +16,7 @@
                 <label>Eeny</label>
             </value>
             <value>
-                <fullName>Meeny</fullName>
+                <fullName>Meeny Changed</fullName>
                 <default>false</default>
                 <label>Meeny</label>
             </value>
