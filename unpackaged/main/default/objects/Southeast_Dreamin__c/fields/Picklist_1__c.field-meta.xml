@@ -10,13 +10,9 @@
         <restricted>true</restricted>
         <valueSetDefinition>
             <sorted>false</sorted>
+
             <value>
-                <fullName>Eeny</fullName>
-                <default>false</default>
-                <label>Eeny</label>
-            </value>
-            <value>
-                <fullName>Meeny</fullName>
+                <fullName>Meenyy</fullName>
                 <default>false</default>
                 <label>Meeny</label>
             </value>
