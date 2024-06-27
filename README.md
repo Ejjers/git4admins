@@ -1,8 +1,11 @@
 # git4admins
 
 Recommended Resources:
+
 Trailhead: Git and Git Basics
+
 Bitbucket: Getting Git Right
+
 LinkedIn Learning: Git Essential Training
 
 
