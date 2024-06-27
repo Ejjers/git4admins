@@ -11,17 +11,17 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Eeny</fullName>
+                <fullName>Apples</fullName>
                 <default>false</default>
                 <label>Eeny</label>
             </value>
             <value>
-                <fullName>Meeny</fullName>
+                <fullName>Banana</fullName>
                 <default>false</default>
                 <label>Meeny</label>
             </value>
             <value>
-                <fullName>Miny</fullName>
+                <fullName>Cheese</fullName>
                 <default>false</default>
                 <label>Miny</label>
             </value>
