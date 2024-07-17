@@ -25,6 +25,11 @@
                 <default>false</default>
                 <label>Miny</label>
             </value>
+                <value>
+                <fullName>M0e</fullName>
+                <default>false</default>
+                <label>Moe</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
