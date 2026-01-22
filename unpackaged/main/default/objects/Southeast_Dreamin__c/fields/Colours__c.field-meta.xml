@@ -16,6 +16,11 @@
                 <label>Blue</label>
             </value>
             <value>
+                <fullName>Cobalt</fullName>
+                <default>false</default>
+                <label>Cobalt</label>
+            </value>
+            <value>
                 <fullName>Green</fullName>
                 <default>false</default>
                 <label>Green</label>
